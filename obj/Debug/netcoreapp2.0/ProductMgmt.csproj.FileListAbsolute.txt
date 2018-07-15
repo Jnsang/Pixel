@@ -1,0 +1,13 @@
+E:\productMgmt\ProductMgmt\bin\Debug\netcoreapp2.0\app.db
+E:\productMgmt\ProductMgmt\bin\Debug\netcoreapp2.0\ProductMgmt.deps.json
+E:\productMgmt\ProductMgmt\bin\Debug\netcoreapp2.0\ProductMgmt.runtimeconfig.json
+E:\productMgmt\ProductMgmt\bin\Debug\netcoreapp2.0\ProductMgmt.runtimeconfig.dev.json
+E:\productMgmt\ProductMgmt\bin\Debug\netcoreapp2.0\ProductMgmt.dll
+E:\productMgmt\ProductMgmt\bin\Debug\netcoreapp2.0\ProductMgmt.pdb
+E:\productMgmt\ProductMgmt\obj\Debug\netcoreapp2.0\ProductMgmt.csprojAssemblyReference.cache
+E:\productMgmt\ProductMgmt\obj\Debug\netcoreapp2.0\ProductMgmt.csproj.CoreCompileInputs.cache
+E:\productMgmt\ProductMgmt\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\productMgmt\ProductMgmt\obj\Debug\netcoreapp2.0\ProductMgmt.AssemblyInfoInputs.cache
+E:\productMgmt\ProductMgmt\obj\Debug\netcoreapp2.0\ProductMgmt.AssemblyInfo.cs
+E:\productMgmt\ProductMgmt\obj\Debug\netcoreapp2.0\ProductMgmt.dll
+E:\productMgmt\ProductMgmt\obj\Debug\netcoreapp2.0\ProductMgmt.pdb
